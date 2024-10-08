@@ -1,16 +1,9 @@
-# write-for-us
+# Write for Proxycurl
 
 Hi, welcome to Proxycurl writing program! 
 
 ## Writing process
 
-1. Look for "looking-for-authors label
-2. Comment your portfolio link and LinkedIn link
-3. Write
-4. Get paid
+Read https://nubela.co/blog/p/cd8f54b9-2fe3-4647-bc1e-05aed547a6e2/ and follow the instruction.
 
-### Payment
-
-Immediate
-
-All the best!
+Good luck!
